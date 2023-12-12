@@ -1,3 +1,3 @@
-module tutorials/package-in-go/calculator
+module github.com/guptaaashutosh/go-calculator
 
 go 1.19
